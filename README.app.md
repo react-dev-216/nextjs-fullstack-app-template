@@ -1,9 +1,5 @@
 All code from this tutorial as a complete package is available in [this repository](https://github.com/react-dev-216/nextjs-fullstack-app-template).
 
-This tutorial is available as a video lesson if you prefer that format:
-
-<!-- {% youtube  %} -->
-
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
